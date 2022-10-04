@@ -8,7 +8,7 @@ Este projeto foi criado com o intuito de estudar React JS
 
 ## Introdução
 
-Apos entrar na pasta do projeto no terminal, digite:
+Apos entrar na pasta do projeto, no terminal, digite:
 
 ### `npm start`
 
