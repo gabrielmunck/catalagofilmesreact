@@ -22,3 +22,4 @@ Apos todas as mudancas terem sido concretizadas, basta digitar no terminal:
 Isso ira criar um novo diretorio "build" pronto para ser feito o deploy.
 
 
+
