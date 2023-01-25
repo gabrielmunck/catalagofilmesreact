@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import Filmes from './pages/Filmes';
 import Favoritos from "./pages/Favoritos";
 import Erro from './pages/Erro'
+import Sobre from "./pages/Sobre";
 
 import Header from "./components/Header";
 
@@ -15,6 +16,7 @@ function RoutesApp(){
                 <Route path="/" element={ <Home/> }/>
                 <Route path="/filmes/:id" element={ <Filmes/> }/>
                 <Route path="/favoritos" element={ <Favoritos/> }/>
+                <Route path="/sobre" element={ <Sobre/> }/>
 
 
 
